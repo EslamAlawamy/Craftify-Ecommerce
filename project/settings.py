@@ -156,3 +156,5 @@ JAZZMIN_SETTINGS = {
 
     "copyright": "Craftify Ltd",
 }
+
+AUTH_USER_MODEL = 'authentication.User'
